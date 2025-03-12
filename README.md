@@ -1,4 +1,4 @@
-# telco_churn
+# telco_churn 
 Machine Learning Assignment 01
 
 ## Project Overview
@@ -27,3 +27,6 @@ This project was my first assignment in the introductory Machine Learning class 
 
 ## Conclusion
 The Random Forest model was the optimal choice with a high accuracy and precision in predicting customer churn. It outperformed other models in terms of performance metrics, making it a reliable model for this task.
+
+## Thank you  
+Thank you for checking out my first project :) 
